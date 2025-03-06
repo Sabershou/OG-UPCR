@@ -1,4 +1,4 @@
-# Unsupervised RGB-D Point Cloud Registration for Scenes with Low Overlap and Illumination Variation
+# Unsupervised RGB-D Point Cloud Registration for Scenes with Low Overlap and Photometric inconsistency
 
 This repository represents the official implementation of the paper:
 
