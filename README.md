@@ -2,7 +2,7 @@
 
 This repository represents the official implementation of the paper:
 
-[Unsupervised RGB-D Point Cloud Registration for Scenes with Low Overlap and Illumination Variation]
+[Unsupervised RGB-D Point Cloud Registration for Scenes with Low Overlap and Photometric inconsistency]
 
 ### Instructions
 This code has been tested on 
@@ -13,8 +13,8 @@ This code has been tested on
 #### Requirements
 To create a virtual environment and install the required dependences please run:
 ```shell
-conda create --name IG-UPCR python=3.8
-conda activate IG-UPCR
+conda create --name OG-UPCR python=3.8
+conda activate OG-UPCR
 
 pip install -r requirements.txt
 ```
@@ -53,7 +53,7 @@ python test.py --dataset ScanNet/ScanNet_1500 --checkpoint --SCANNET_ROOT
 ```
 
 ### Pretrained Model
-We provide the pre-trained model of IG-UPCR in [Google Cloud](https://drive.google.com/drive/folders/1V2ZfkVNG1EG4oEsewJCaNlBU8HQSDYhr?usp=drive_link).
+We provide the pre-trained model of OG-UPCR in [Google Cloud](https://drive.google.com/drive/folders/1V2ZfkVNG1EG4oEsewJCaNlBU8HQSDYhr?usp=drive_link).
 
 ### Acknowledgments
 In this project we use (parts of) the official implementations of the followin works: 
