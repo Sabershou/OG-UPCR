@@ -53,7 +53,7 @@ python test.py --dataset ScanNet/ScanNet_1500 --checkpoint --SCANNET_ROOT
 ```
 
 ### Pretrained Model
-We provide the pre-trained model of IG-UPCR in [Google Cloud](https://drive.google.com/drive/folders/1V2ZfkVNG1EG4oEsewJCaNlBU8HQSDYhr?usp=sharing).
+We provide the pre-trained model of IG-UPCR in [Google Cloud](https://drive.google.com/drive/folders/1V2ZfkVNG1EG4oEsewJCaNlBU8HQSDYhr?usp=drive_link).
 
 ### Acknowledgments
 In this project we use (parts of) the official implementations of the followin works: 
